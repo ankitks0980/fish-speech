@@ -10,7 +10,7 @@ from torch.utils._foreach_utils import (
     _has_foreach_support,
 )
 
-
+# learning git and github
 @torch.no_grad()
 def grad_norm(
     parameters: Union[Tensor, list[Tensor]],
